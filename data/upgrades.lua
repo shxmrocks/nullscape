@@ -12,10 +12,10 @@ return {
             MaxStack = 1,
             Client = false
         },
-        ["LastManStanding"] = {
+        --[["LastManStanding"] = {
             MaxStack = 1,
             Client = false
-        },
+        },]]
         ["BusinessLicense"] = {
             MaxStack = 2,
             Client = false
@@ -100,10 +100,10 @@ return {
             MaxStack = 1,
             Client = true
         },
-        ["RadarPlayer"] = {
+        --[[["RadarPlayer"] = {
             MaxStack = 1,
             Client = true
-        },
+        },]]
         ["RadarAltars"] = {
             MaxStack = 1,
             Client = true
