@@ -140,7 +140,7 @@ return {
             MaxStack = 1,
             Client = true
         }
-    }
+    },
     Other = {
         ["HighlightTripmines"] = {
             MaxStack = 1,
@@ -149,6 +149,6 @@ return {
         ["DefuseKit"] = {
             MaxStack = 3,
             Client = false
-        },
+        }
     }
 }
