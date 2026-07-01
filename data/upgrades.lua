@@ -1,9 +1,9 @@
 return {
     Casual = {
-        ["Adrenaline"] = {
+        --[[["Adrenaline"] = {
             MaxStack = 1,
             Client = true
-        },
+        },]]
         ["BetterJumpPad"] = {
             MaxStack = 1,
             Client = false
