@@ -1,4 +1,4 @@
 return {
-    version = "v0.0.2",
-    status = false
+    version = "v0.0.3",
+    status = true
 }
